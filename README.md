@@ -34,7 +34,7 @@ Users should be able to:
 ### Links
 
 - [Solution URL](https://github.com/geeky-amat/article-preview-component-master)
-- [Live Site URL](https://geeky-amat.github.io/article-preview-component-master/)
+- [Live Site URL]
 
 ## My process
 
@@ -67,4 +67,4 @@ I can probably use `<ThemeProvider>` wrapper component to define global variable
 
 ## Author
 
-- Frontend Mentor - [@username](https://www.frontendmentor.io/profile/username)
+- Frontend Mentor - [@geeky-amat](https://www.frontendmentor.io/profile/geeky-amat)
