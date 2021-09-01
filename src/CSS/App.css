@@ -1,0 +1,25 @@
+img {
+  max-width: 100%;
+}
+
+.flex {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.App {
+  max-width: 500px;
+  margin: 0 auto;
+}
+
+@media (min-width: 900px) {
+  .App {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    max-width: 1120px;
+    margin: 5em auto;
+  }
+}
+/*# sourceMappingURL=App.css.map */

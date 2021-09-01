@@ -1,0 +1,27 @@
+$veryDarkGrayishBlue: hsl(217, 19%, 35%);
+$desaturatedDarkBlue: hsl(214, 17%, 51%);
+$grayishBlue: hsl(212, 23%, 69%);
+$lightGrayishBlue: hsl(210, 46%, 95%);
+
+// #6E8098
+
+img {
+  max-width: 100%;
+}
+
+.flex {
+  display: flex;
+}
+
+.App {
+  max-width: 500px;
+  margin: 0 auto;
+}
+
+@media (min-width: 900px) {
+  .App {
+    display: flex;
+    max-width: 1120px;
+    margin: 5em auto;
+  }
+}
