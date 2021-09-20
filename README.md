@@ -14,7 +14,6 @@ This is a solution to the [Article preview component challenge on Frontend Mento
   - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
 
 
 ## Overview
@@ -28,13 +27,13 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](./screenshot_desktop.jpg)
 
 
 ### Links
 
 - [Solution URL](https://github.com/geeky-amat/article-preview-component-master)
-- [Live Site URL]
+- [Live Site URL]()
 
 ## My process
 
@@ -68,3 +67,4 @@ I can probably use `<ThemeProvider>` wrapper component to define global variable
 ## Author
 
 - Frontend Mentor - [@geeky-amat](https://www.frontendmentor.io/profile/geeky-amat)
+- Twitter - [@GeekyAmat](https://www.twitter.com/GeekyAmat)
