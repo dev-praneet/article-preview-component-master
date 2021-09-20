@@ -15,6 +15,7 @@ This is a solution to the [Article preview component challenge on Frontend Mento
   - [Useful resources](#useful-resources)
 - [Author](#author)
 
+
 ## Overview
 
 ### The challenge
